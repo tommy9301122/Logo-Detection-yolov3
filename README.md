@@ -19,5 +19,5 @@ batch-size : 12
 
 
 ## 成果
-![avatar](output/ad1.JPG)  
-![avatar](output/ad2.JPG) 
+![avatar](output/ad1.png)  
+![avatar](output/ad2.png) 
