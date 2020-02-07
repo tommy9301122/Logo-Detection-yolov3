@@ -16,4 +16,4 @@ batch-size : 24
 
 ## 成果
 ![results](results.png)  
-![output](output/20190927-1.png)  
+![output](output/20191009-43.png)  
