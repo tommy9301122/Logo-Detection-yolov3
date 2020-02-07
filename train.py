@@ -27,9 +27,9 @@ hyp = {'giou': 3.54,  # giou loss gain
        'cls_pw': 1.0,  # cls BCELoss positive_weight
        'obj': 49.5,  # obj loss gain (*=img_size/320 if img_size != 320)
        'obj_pw': 1.0,  # obj BCELoss positive_weight
-       'iou_t': 0.1287,  # iou training threshold
-       'lr0': 0.000128,  # initial learning rate (SGD=1E-3, Adam=9E-5)
-       'lrf': -3.441,  # final LambdaLR learning rate = lr0 * (10 ** lrf)
+       'iou_t': 0.225,  # iou training threshold
+       'lr0': 0.00579,  # initial learning rate (SGD=1E-3, Adam=9E-5)
+       'lrf': -4,  # final LambdaLR learning rate = lr0 * (10 ** lrf)
        'momentum': 0.937,  # SGD momentum
        'weight_decay': 0.000484,  # optimizer weight decay
        'fl_gamma': 0.5,  # focal loss gamma
