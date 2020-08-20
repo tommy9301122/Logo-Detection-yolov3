@@ -9,7 +9,7 @@
 ```python train.py --data data/obj.data --cfg cfg/yolov3-tiny.cfg --weights weights/yolov3-tiny.weights --epochs 500 --batch-size 24```  
 batch-size : 24  
 epochs : 500  
-模型 : yolov3-tiny (其他模型請至[這裡](https://drive.google.com/drive/folders/1LezFG5g3BCW6iYaV89B2i64cqEUZD7e0)下載，載完放到weights)  
+預訓練模型 : yolov3-tiny (其他模型請至[這裡](https://drive.google.com/drive/folders/1LezFG5g3BCW6iYaV89B2i64cqEUZD7e0)下載，載完放到weights)  
 
 ### 預測
 請將圖片放至 data/samples  
